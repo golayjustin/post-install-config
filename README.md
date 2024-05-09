@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 Configure Roles by selecting Admin Panel -> Agents -> Roles. Create a role named "Supreme Admin" that has all available permissions.
 </p>
 <p>
-<img src="https://i.imgur.com/ju94z9h.png"/>
+<img height="80%" width="80%" alt="Supreme Admin" src="https://i.imgur.com/ju94z9h.png">
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Configure Roles by selecting Admin Panel -> Agents -> Roles. Create a role named
 Configure Departments by selecting Admin Panel -> Agents -> Departments and create a department called "System Administrators".
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="System Administrators" src="https://i.imgur.com/8q3zKLq.png">
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Configure Departments by selecting Admin Panel -> Agents -> Departments and crea
 Configure Teams by selecting Admin Panel -> Agents -> Teams and add Level II Support.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Level II Support" src="https://i.imgur.com/QdZOmTN.png">
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Configure Teams by selecting Admin Panel -> Agents -> Teams and add Level II Sup
 Allow anyone to create tickets by selecting Admin Panel -> Settings -> User Settings and ensure that "Require registration and login to create tickets" is not selected.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Does not require registration" src="https://i.imgur.com/sDN1i5S.png">
 </p>
 <br />
 
@@ -65,7 +65,7 @@ Allow anyone to create tickets by selecting Admin Panel -> Settings -> User Sett
 Configure Agents by selecting Admin Panel -> Agents -> Add New and add two new agents named Jane and John.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Agents Jane and John" src="https://i.imgur.com/xJn10Yd.png">
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Configure Agents by selecting Admin Panel -> Agents -> Add New and add two new a
 Configure Users by selecting Agent Panel -> Users -> Add New and add two users, Karen and Ken.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Users Karen and Ken" src="https://i.imgur.com/I4aYs5z.png">
 </p>
 <br />
 
@@ -81,7 +81,13 @@ Configure Users by selecting Agent Panel -> Users -> Add New and add two users, 
 Configure SLA by selecting Admin Panel -> Manage -> SLA and add: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours).
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Sev-A SLA" src="https://i.imgur.com/lUpqGoh.png">
+</p>
+<p>
+<img height="80%" width="80%" alt="Sev-B SLA" src="https://i.imgur.com/sksVmj4.png">
+</p>
+<p>
+<img height="80%" width="80%" alt="Sev-C SLA" src="https://i.imgur.com/eb97jPK.png">
 </p>
 <br />
 
@@ -89,6 +95,6 @@ Configure SLA by selecting Admin Panel -> Manage -> SLA and add: Sev-A (1 hour, 
 Configure Help Topics by selecting Admin Panel -> Manage -> Help Topics and add the following: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Help Topics" src="https://i.imgur.com/v78Knqq.png">
 </p>
 <br />
